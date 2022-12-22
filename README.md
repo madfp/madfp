@@ -7,5 +7,5 @@
 ### My social media...
 <a href = "https://twitter.com/maarco_04" target="_blank"> <img width = 35px src = "https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png"/>
 <a href = "https://instagram.com/maarco_04" target="_blank"> <img width = 35px src = "https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"/>
-<a href = "www.linkedin.com/in/marco-de-freitas-a867a122b" target="_blank"> <img src = "https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt = "Linkedin" width = 35px/>
+<a href = "https://linkedin.com/in/marco-de-freitas-a867a122b" target="_blank"> <img src = "https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt = "Linkedin" width = 35px/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=madfp.id&left_color=blue&right_color=dark-blue)
