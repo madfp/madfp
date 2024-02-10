@@ -47,13 +47,3 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,github,tailwind,git,vscode" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
 </div>
-
-<hr/>
-
-<h2 align="center">Estadisticas en github</h2> 
-<br>
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=madfp&theme=highcontrast&mode=weekly" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfp&layout=compact&theme=transparent&hide_border=true" alt="Most used languages"/>
-</div>
-<br/>
