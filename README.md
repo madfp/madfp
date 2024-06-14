@@ -26,7 +26,7 @@
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,github,tailwind,git,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,docker" /><br>
 </div>
 <hr/>
 <div align="center"> 
