@@ -20,14 +20,12 @@
 <div>
   <img src="https://skillicons.dev/icons?i=python,docker,django,php,laravel,java,go" />
   <br>
-  <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm,bun,deno,wordpress,linux,c" />
+  <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm,bun,deno,wordpress,linux,c,astro" />
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,typescript,angular,github,tailwind,git,nextjs,redux,html,css,figma" />
 </div>
 
 ## Estadísticas de github
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madfp&show_icons=true&locale=en&layout=compact" alt="madfp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madfp&" alt="madfp" /></p>
 
