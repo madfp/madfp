@@ -1,20 +1,5 @@
 # Hi 👋, I'm Marco De Freitas
-### Computer engineering student. A passionate about innovation and technology & software architecture.
-<p>
- Soy un estudiante de ingenieria de computación, apasionado por la tecnología, la curiosidad y poder convertir en realidad mis ideas por medio de la construcción de aplicaciones funcionales, crear soluciones o ideas innovadoras. Me encanta aprender nuevas cosas y aplicar mis conocimientos para resolver problemas reales.
-</p>
-
-<div align="left">
-  
- 🔭 Estoy trabajando en terminar la carrera de ingenieria de computación
-  
- 🌱 Actualmente aprendiendo de ciencias de datos e inteligencia artificial
-
- 👀 Interesado en ciber seguridad
- 
- ⏲️ Creando soluciones tecnológicas innovadoras
-
-</div>
+### Computer engineer. A passionate about innovation and technology & software architecture.
  
 ## Tecnologías y herramientas
 <div>
