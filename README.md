@@ -11,7 +11,7 @@ Computer engineer & Software developer. A passionate about innovation and techno
 
 ## Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madfp&" alt="madfp" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madfp&show_icons=true&theme=dark)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-de-freitas/)
