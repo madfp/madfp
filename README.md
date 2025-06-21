@@ -9,10 +9,6 @@ Computer engineer & Software developer. A passionate about innovation and techno
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,typescript,angular,github,tailwind,git,nextjs,redux,html,css,figma" />
 </div>
 
-## Github Stats
-
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=madfp&show_icons=true&theme=transparent)
-
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-de-freitas/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maarco_04/)
