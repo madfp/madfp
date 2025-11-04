@@ -2,7 +2,7 @@
 Computer engineer & Software developer. A passionate about innovation and technology & software architecture.
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,docker,django,php,laravel,java,go" />
+  <img src="https://skillicons.dev/icons?i=python,docker,django" />
   <br>
   <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm,bun,deno,wordpress,linux,c,astro" />
   <br>
